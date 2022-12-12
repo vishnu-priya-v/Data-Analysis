@@ -1,5 +1,4 @@
 # Simple Excel Dashboard
 Analysis using Microsoft Excel
-Using a dataset  to visualise how many people buy a bike based on given attributes.
-I have used MS Excel to create a basic dashboard
+A dasboard using excel to create an insight of sales of bikes using different attributes such as income, region, marital status, number of children, commute distance etc.
 Steps involved are - Data Exploration, Data Cleaning, Enriching the data and perform visualisation
